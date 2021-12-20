@@ -1,7 +1,10 @@
 <resources>
     <string name="app_name">Swimming Pool App</string>
     <string name="button_addSwimmingpoolapp">Add Swimmingpoolapp</string>
+    <string name="menu_cancelSwimmingpoolapp">Cancel</string>
     <string name="hint_swimmingpoolappTitle">Swimmingpoolapp Title</string>
     <string name="hint_swimmingpoolappDescription">Swimmingpoolapp Description</string>
     <string name="menu_addSwimmingpoolapp">Add</string>
+    <string name="enter_Swimmingpoolapp_title"> Please enter a Swimmingpoolapp Title </string>
+    <string name="save_swimmingpoolapp"> Save Swimmingpoolapp </string>
 </resources>
